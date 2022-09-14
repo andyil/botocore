@@ -42,6 +42,16 @@
       "input_token": "NextToken",
       "output_token": "NextToken",
       "result_key": "Tags"
+    },
+     "ListImports": {
+      "input_token": "NextToken",
+      "output_token": "NextToken",
+      "result_key": "ImportSummaryList"
+    },
+      "ListExports": {
+      "input_token": "NextToken",
+      "output_token": "NextToken",
+      "result_key": "ExportSummaries"
     }
   }
 }
